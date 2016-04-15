@@ -14,3 +14,5 @@ http://rangle.io/resources/thinking-in-angular-2-overview-of-key-angular-2-conce
 http://rangle.io/resources/all-things-angularjs-2/
 
 http://rangle.io/resources/why-redux-future-of-angular-react/
+
+http://rangle.io/resources/master-your-angular2-workflow-with-batarangle-typescript-webpack-key-tools/
