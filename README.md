@@ -16,3 +16,9 @@ http://rangle.io/resources/all-things-angularjs-2/
 http://rangle.io/resources/why-redux-future-of-angular-react/
 
 http://rangle.io/resources/master-your-angular2-workflow-with-batarangle-typescript-webpack-key-tools/
+
+##Angular 2 seeds
+
+https://github.com/mgechev/angular2-seed
+
+https://github.com/AngularClass/angular2-webpack-starter
