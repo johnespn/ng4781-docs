@@ -43,3 +43,6 @@ http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
 #### Comparación de app en ng1, ng2, ng2+redux
 http://www.sitepoint.com/data-flows-angular-2-redux/
 https://github.com/DevelopIntelligenceBoulder/angular2-samples
+
+### Un starter de redux + sample app de Rangle.io
+https://github.com/rangle/angular2-redux-starter
