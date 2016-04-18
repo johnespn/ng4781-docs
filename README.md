@@ -41,4 +41,5 @@ http://builtwithangular2.com
 http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
 
 #### Comparación de app en ng1, ng2, ng2+redux
+http://www.sitepoint.com/data-flows-angular-2-redux/
 https://github.com/DevelopIntelligenceBoulder/angular2-samples
