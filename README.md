@@ -37,6 +37,8 @@ https://github.com/AngularShowcase
 apps using Angular 2 with demos
 http://builtwithangular2.com
 
+## Redux resources and sample apps
+
 #### Redux explained and lots of resources (incluye sample app)
 http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
 
@@ -44,5 +46,10 @@ http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
 http://www.sitepoint.com/data-flows-angular-2-redux/
 https://github.com/DevelopIntelligenceBoulder/angular2-samples
 
-### Un starter de redux + sample app de Rangle.io
+#### Un starter de redux + sample app de Rangle.io
 https://github.com/rangle/angular2-redux-starter
+
+#### !Este framework para redux parece bien interesante y relacionado con el core-team de angular:
+Recomiendo mirar los otros proyectos ngrx
+https://github.com/ngrx/angular2-store-example
+
