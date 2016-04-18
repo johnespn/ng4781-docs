@@ -36,3 +36,6 @@ https://github.com/AngularShowcase
 
 apps using Angular 2 with demos
 http://builtwithangular2.com
+
+#### Redux explained and lots of resources
+http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
