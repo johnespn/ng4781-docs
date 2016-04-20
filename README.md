@@ -53,3 +53,12 @@ https://github.com/rangle/angular2-redux-starter
 Recomiendo mirar los otros proyectos ngrx
 https://github.com/ngrx/angular2-store-example
 
+## Guías de diseño ó estilos para angular 2
+
+#### Mgechev 
+
+https://github.com/mgechev/angular2-style-guide
+
+#### John Papa
+
+https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md
