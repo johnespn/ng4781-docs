@@ -1,5 +1,7 @@
 # ng2hackaton-docs Varios recursos 
 
+[![Join the chat at https://gitter.im/johnespn/ng4781-docs](https://badges.gitter.im/johnespn/ng4781-docs.svg)](https://gitter.im/johnespn/ng4781-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Recursos varios de rangle.io
 http://rangle.io/resources/
 
