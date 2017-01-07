@@ -34,10 +34,10 @@ https://github.com/angular/angular2-seed
 sample applications
 https://github.com/AngularShowcase
 
-#### Built with angular
+#### Angular Expo
 
 apps using Angular 2 with demos
-http://builtwithangular2.com
+http://angularexpo.com
 
 ## Redux resources and sample apps
 
